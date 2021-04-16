@@ -1,10 +1,10 @@
 {
   "uuid": "%uuid%",
   "name": "NixBlocker",
-  "mainClass": "borg.locutus.nixblocker.NixBlocker",
+  "mainClass": "ork.locus.nixblocker.NixBlocker",
   "description": "Zielserver: GrieferGames. Dieses Addon blockiert alle Zeilen, die einen Nutzer lediglich nixen sollen.",
   "version": 1.0,
-  "author": "LocutusVonBorg",
+  "author": "LocusVonOrk",
   "category": 1,
   "icon": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/50/Book_JE2_BE2.png/revision/latest/scale-to-width-down/150?cb=20190530235325"
 }

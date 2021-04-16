@@ -1,4 +1,4 @@
-package borg.locutus.nixblocker;
+package ork.locus.nixblocker;
 
 
 import net.labymod.api.events.MessageReceiveEvent;
