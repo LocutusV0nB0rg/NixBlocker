@@ -1,4 +1,4 @@
-package borg.locutus.nixblocker;
+package ork.locus.nixblocker;
 
 import net.labymod.api.LabyModAddon;
 import net.labymod.settings.elements.SettingsElement;
